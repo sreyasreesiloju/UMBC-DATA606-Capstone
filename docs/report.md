@@ -1,6 +1,6 @@
 # Resume Insights and Optimization
 
-![Resume_Insights](resume_insights.png)
+![Resume_Insights](resume_img.jpg)
 
 ## 1. Title and Author
 
