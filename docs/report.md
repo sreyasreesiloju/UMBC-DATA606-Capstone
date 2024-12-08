@@ -1,6 +1,6 @@
 # Resume Insights and Optimization
 
-![Resume_Insights](resume_img.jpg)
+![Resume_Insights](resume_insights.png)
 
 ## 1. Title and Author
 
@@ -12,7 +12,7 @@
 * **LinkedIn Profile**: [LinkedIn Profile](https://www.linkedin.com/in/sreya-sree-siloju-a29224149/)
 * **PowerPoint Presentation**: [Power Point Presentation](https://github.com/sreya0299/UMBC-DATA606-Capstone/blob/main/docs/RESUME%20INSIGHTS.pptx)
 * **YouTube Video**: [YouTube Video](https://youtu.be/uVsrVjCWryg)
-* **Streamlit App**: [Streamlit App](https://umbc-data606-capstone-khtcappnhvnslcitctn6dpm.streamlit.app/)
+* **Streamlit App**: [Streamlit App](https://umbc-data606-capstone-jwd6on3zvtdlqcbacc2fny.streamlit.app/)
   
 ---
 
