@@ -350,7 +350,7 @@ The visualizations of the job descriptions with the resume are provided below
   * ![Polar_Plot](Polar_Plot.png)
   
 The link to access the application for uploading the resumes and analyzing them in accordance with job descriptions.
-* **Streamlit UI**: [Streamlit App](https://umbc-data606-capstone-khtcappnhvnslcitctn6dpm.streamlit.app/)
+* **Streamlit UI**: [Streamlit App](https://umbc-data606-capstone-jwd6on3zvtdlqcbacc2fny.streamlit.app/)
 ---
 ## 7. Future Improvements
 In Future, the improvements that can be made in the app for the better User Interface and the analysis of the resumes, the following features can be taken into consideration.
